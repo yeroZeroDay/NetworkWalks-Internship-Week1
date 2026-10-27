@@ -23,3 +23,12 @@ This practical exercise strengthened my understanding of virtual machine network
 This is just the beginning of my cybersecurity journey, and I look forward to building more practical skills, exploring new security tools, and deepening my knowledge of penetration testing.
 
 #Cybersecurity #PenetrationTesting #KaliLinux #VirtualBox #NetworkSecurity #HandsOnLearning #Networkwalks
+
+
+
+
+
+<img width="1080" height="1700" alt="Lab 3 Result - Alhagie Yero Jallow" src="https://github.com/user-attachments/assets/c453630c-5717-49b2-a541-65fce7b65866" />
+
+I Have also completed the attached extra lab on week-1 which has taught me a lot about wireshark
+
